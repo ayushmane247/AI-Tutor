@@ -1,0 +1,290 @@
+[
+  {
+    "userId": "oz1QuLS1dkWzvOdKwhZzASZGPgm2",
+    "subject": "dsa",
+    "score": 10,
+    "correctCount": 1,
+    "totalQuestions": 10,
+    "timeSpent": 29.521,
+    "timestamp": "2025-08-25T01:48:14.780Z",
+    "detailedResults": [
+      {
+        "questionId": "DSA-042",
+        "question": "Which hashing collision resolution uses linked lists?",
+        "userAnswer": "A",
+        "correctAnswer": "B",
+        "correctAnswerText": "Chaining",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-122",
+        "question": "Which algorithm detects negative cycles?",
+        "userAnswer": "C",
+        "correctAnswer": "B",
+        "correctAnswerText": "Bellman-Ford",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-196",
+        "question": "What is the time complexity of Linear search in unsorted array?",
+        "userAnswer": "B",
+        "correctAnswer": "C",
+        "correctAnswerText": "O(N)",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-015",
+        "question": "Which is NOT a self-balancing BST?",
+        "userAnswer": "B",
+        "correctAnswer": "D",
+        "correctAnswerText": "B-Tree",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-197",
+        "question": "What is the time complexity of Binary search in sorted array?",
+        "userAnswer": "C",
+        "correctAnswer": "B",
+        "correctAnswerText": "O(log N)",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-044",
+        "question": "Which algorithm is used to find MST?",
+        "userAnswer": "C",
+        "correctAnswer": "B",
+        "correctAnswerText": "Prim/Kruskal",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-001",
+        "question": "Time complexity of binary search in a sorted array of size N?",
+        "userAnswer": "C",
+        "correctAnswer": "B",
+        "correctAnswerText": "O(log N)",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-194",
+        "question": "Which strategy does QuickSelect use?",
+        "userAnswer": "D",
+        "correctAnswer": "A",
+        "correctAnswerText": "Divide and conquer",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-198",
+        "question": "What is the time complexity of Building a heap from N elements (heapify)?",
+        "userAnswer": "C",
+        "correctAnswer": "C",
+        "correctAnswerText": "O(N)",
+        "isCorrect": true
+      },
+      {
+        "questionId": "DSA-028",
+        "question": "What is the time complexity of Traversal of a binary tree?",
+        "userAnswer": "B",
+        "correctAnswer": "C",
+        "correctAnswerText": "O(N)",
+        "isCorrect": false
+      }
+    ],
+    "aiAnalysis": "**Performance Analysis for DSA**\n\n**Overall Performance:** Needs Improvement (10.0%)\nYou answered 1 out of 10 questions correctly.\n\n**Time Management:** You completed questions quickly. Consider taking more time to review your answers.\nAverage time per question: 3.0 seconds.\n\n**Recommendations:**\n- Review the 9 questions you missed to understand the concepts better.\n- Continue practicing with similar questions to reinforce your knowledge.\n- Focus on understanding the underlying concepts rather than memorizing answers.\n\n**Next Steps:**\n- Take more practice tests to track your improvement.\n- Study the areas where you made mistakes.\n- Keep up the consistent practice!\n\nGreat effort on completing the test! 🎯"
+  },
+  {
+    "userId": "oz1QuLS1dkWzvOdKwhZzASZGPgm2",
+    "subject": "cn",
+    "score": 33.33333333333333,
+    "correctCount": 3,
+    "totalQuestions": 9,
+    "timeSpent": 22.332,
+    "timestamp": "2025-08-25T01:49:03.225Z",
+    "detailedResults": [
+      {
+        "questionId": "CN-108",
+        "question": "Which command checks reachability using ICMP Echo?",
+        "userAnswer": "B",
+        "correctAnswer": "A",
+        "correctAnswerText": "ping",
+        "isCorrect": false
+      },
+      {
+        "questionId": "CN-001",
+        "question": "How many layers are in the OSI model?",
+        "userAnswer": "C",
+        "correctAnswer": "C",
+        "correctAnswerText": "7",
+        "isCorrect": true
+      },
+      {
+        "questionId": "CN-004",
+        "question": "Which device operates primarily at Layer 2?",
+        "userAnswer": "B",
+        "correctAnswer": "B",
+        "correctAnswerText": "Switch",
+        "isCorrect": true
+      },
+      {
+        "questionId": "CN-075",
+        "question": "Which default TCP/UDP port is commonly associated with POP3?",
+        "userAnswer": "B",
+        "correctAnswer": "A",
+        "correctAnswerText": "110",
+        "isCorrect": false
+      },
+      {
+        "questionId": "CN-130",
+        "question": "Which default TCP/UDP port is commonly associated with SMB?",
+        "userAnswer": "B",
+        "correctAnswer": "A",
+        "correctAnswerText": "445",
+        "isCorrect": false
+      },
+      {
+        "questionId": "CN-045",
+        "question": "Bit transmission over media is at which layer?",
+        "userAnswer": "D",
+        "correctAnswer": "D",
+        "correctAnswerText": "Physical",
+        "isCorrect": true
+      },
+      {
+        "questionId": "CN-042",
+        "question": "Encryption is typically associated with which OSI layer service?",
+        "userAnswer": "B",
+        "correctAnswer": "A",
+        "correctAnswerText": "Presentation",
+        "isCorrect": false
+      },
+      {
+        "questionId": "CN-102",
+        "question": "Which is NOT a private IPv4 range?",
+        "userAnswer": "A",
+        "correctAnswer": "D",
+        "correctAnswerText": "8.8.0.0/16",
+        "isCorrect": false
+      },
+      {
+        "questionId": "CN-076",
+        "question": "Which default TCP/UDP port is commonly associated with IMAP?",
+        "userAnswer": "D",
+        "correctAnswer": "A",
+        "correctAnswerText": "143",
+        "isCorrect": false
+      }
+    ],
+    "aiAnalysis": "**Performance Analysis for CN**\n\n**Overall Performance:** Needs Improvement (33.3%)\nYou answered 3 out of 9 questions correctly.\n\n**Time Management:** You completed questions quickly. Consider taking more time to review your answers.\nAverage time per question: 2.5 seconds.\n\n**Recommendations:**\n- Review the 6 questions you missed to understand the concepts better.\n- Continue practicing with similar questions to reinforce your knowledge.\n- Focus on understanding the underlying concepts rather than memorizing answers.\n\n**Next Steps:**\n- Take more practice tests to track your improvement.\n- Study the areas where you made mistakes.\n- Keep up the consistent practice!\n\nGreat effort on completing the test! 🎯"
+  },
+  {
+    "userId": "oz1QuLS1dkWzvOdKwhZzASZGPgm2",
+    "subject": "dsa",
+    "score": 20,
+    "correctCount": 2,
+    "totalQuestions": 10,
+    "timeSpent": 21.699,
+    "timestamp": "2025-08-25T02:00:23.206Z",
+    "detailedResults": [
+      {
+        "questionId": "DSA-117",
+        "question": "Which traversal uses a queue on a graph?",
+        "userAnswer": "C",
+        "correctAnswer": "B",
+        "correctAnswerText": "BFS",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-071",
+        "question": "Time complexity of binary search in a sorted array of size N?",
+        "userAnswer": "B",
+        "correctAnswer": "B",
+        "correctAnswerText": "O(log N)",
+        "isCorrect": true
+      },
+      {
+        "questionId": "DSA-057",
+        "question": "What is the time complexity of Binary search in sorted array?",
+        "userAnswer": "C",
+        "correctAnswer": "B",
+        "correctAnswerText": "O(log N)",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-095",
+        "question": "What is the time complexity of Push/Pop in stack?",
+        "userAnswer": "D",
+        "correctAnswer": "A",
+        "correctAnswerText": "O(1)",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-074",
+        "question": "Which data structure works on FIFO?",
+        "userAnswer": "B",
+        "correctAnswer": "B",
+        "correctAnswerText": "Queue",
+        "isCorrect": true
+      },
+      {
+        "questionId": "DSA-094",
+        "question": "What is the time complexity of Enqueue/Dequeue in queue (amortized)?",
+        "userAnswer": "B",
+        "correctAnswer": "A",
+        "correctAnswerText": "O(1)",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-029",
+        "question": "What is the time complexity of DFS on graph with V vertices and E edges?",
+        "userAnswer": "D",
+        "correctAnswer": "C",
+        "correctAnswerText": "O(V+E)",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-077",
+        "question": "Which hashing collision resolution uses linked lists?",
+        "userAnswer": "C",
+        "correctAnswer": "B",
+        "correctAnswerText": "Chaining",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-001",
+        "question": "Time complexity of binary search in a sorted array of size N?",
+        "userAnswer": "A",
+        "correctAnswer": "B",
+        "correctAnswerText": "O(log N)",
+        "isCorrect": false
+      },
+      {
+        "questionId": "DSA-075",
+        "question": "Which traversal of BST prints keys in ascending order?",
+        "userAnswer": "C",
+        "correctAnswer": "B",
+        "correctAnswerText": "Inorder",
+        "isCorrect": false
+      }
+    ],
+    "aiAnalysis": "**Performance Analysis for DSA**\n\n**Overall Performance:** Needs Improvement (20.0%)\nYou answered 2 out of 10 questions correctly.\n\n**Time Management:** You completed questions quickly. Consider taking more time to review your answers.\nAverage time per question: 2.2 seconds.\n\n**Recommendations:**\n- Review the 8 questions you missed to understand the concepts better.\n- Continue practicing with similar questions to reinforce your knowledge.\n- Focus on understanding the underlying concepts rather than memorizing answers.\n\n**Next Steps:**\n- Take more practice tests to track your improvement.\n- Study the areas where you made mistakes.\n- Keep up the consistent practice!\n\nGreat effort on completing the test! 🎯"
+  },
+  {
+    "userId": "oz1QuLS1dkWzvOdKwhZzASZGPgm2",
+    "subject": "dsa",
+    "score": 0,
+    "correctCount": 0,
+    "totalQuestions": 1,
+    "timeSpent": 56.018,
+    "timestamp": "2025-08-25T02:05:04.234Z",
+    "detailedResults": [
+      {
+        "questionId": "DSA-054",
+        "question": "Which strategy does QuickSelect use?",
+        "userAnswer": "C",
+        "correctAnswer": "A",
+        "correctAnswerText": "Divide and conquer",
+        "isCorrect": false
+      }
+    ],
+    "aiAnalysis": "**Performance Analysis for DSA**\n\n**Overall Performance:** Needs Improvement (0.0%)\nYou answered 0 out of 1 questions correctly.\n\n**Time Management:** Your pacing was appropriate for the test duration.\nAverage time per question: 56.0 seconds.\n\n**Recommendations:**\n- Review the 1 questions you missed to understand the concepts better.\n- Continue practicing with similar questions to reinforce your knowledge.\n- Focus on understanding the underlying concepts rather than memorizing answers.\n\n**Next Steps:**\n- Take more practice tests to track your improvement.\n- Study the areas where you made mistakes.\n- Keep up the consistent practice!\n\nGreat effort on completing the test! 🎯"
+  }
+]

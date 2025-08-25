@@ -1,0 +1,200 @@
+/* Responsive Typography Utilities */
+.text-responsive-xs {
+  @apply text-xs sm:text-sm;
+}
+
+.text-responsive-sm {
+  @apply text-sm sm:text-base;
+}
+
+.text-responsive-base {
+  @apply text-base sm:text-lg;
+}
+
+.text-responsive-lg {
+  @apply text-lg sm:text-xl;
+}
+
+.text-responsive-xl {
+  @apply text-xl sm:text-2xl;
+}
+
+.text-responsive-2xl {
+  @apply text-2xl sm:text-3xl;
+}
+
+.text-responsive-3xl {
+  @apply text-3xl sm:text-4xl;
+}
+
+/* Responsive Spacing Utilities */
+.p-responsive {
+  @apply p-4 sm:p-6 lg:p-8;
+}
+
+.px-responsive {
+  @apply px-4 sm:px-6 lg:px-8;
+}
+
+.py-responsive {
+  @apply py-4 sm:py-6 lg:py-8;
+}
+
+.m-responsive {
+  @apply m-4 sm:m-6 lg:m-8;
+}
+
+.mx-responsive {
+  @apply mx-4 sm:mx-6 lg:mx-8;
+}
+
+.my-responsive {
+  @apply my-4 sm:my-6 lg:my-8;
+}
+
+.gap-responsive {
+  @apply gap-4 sm:gap-6 lg:gap-8;
+}
+
+.space-y-responsive > :not([hidden]) ~ :not([hidden]) {
+  @apply space-y-4 sm:space-y-6 lg:space-y-8;
+}
+
+.space-x-responsive > :not([hidden]) ~ :not([hidden]) {
+  @apply space-x-4 sm:space-x-6 lg:space-x-8;
+}
+
+/* Responsive Grid Utilities */
+.grid-responsive-1 {
+  @apply grid-cols-1;
+}
+
+.grid-responsive-2 {
+  @apply grid-cols-1 sm:grid-cols-2;
+}
+
+.grid-responsive-3 {
+  @apply grid-cols-1 sm:grid-cols-2 lg:grid-cols-3;
+}
+
+.grid-responsive-4 {
+  @apply grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4;
+}
+
+.grid-responsive-auto {
+  @apply grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5;
+}
+
+/* Responsive Container Utilities */
+.container-responsive {
+  @apply w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.card-responsive {
+  @apply p-4 sm:p-6 rounded-lg;
+}
+
+/* Responsive Flexbox Utilities */
+.flex-responsive-col {
+  @apply flex flex-col sm:flex-row;
+}
+
+.flex-responsive-row {
+  @apply flex flex-row;
+}
+
+.items-responsive-start {
+  @apply items-start sm:items-center;
+}
+
+.justify-responsive-between {
+  @apply justify-start sm:justify-between;
+}
+
+/* Responsive Visibility Utilities */
+.hidden-mobile {
+  @apply hidden sm:block;
+}
+
+.hidden-desktop {
+  @apply block sm:hidden;
+}
+
+.hidden-tablet {
+  @apply block md:hidden;
+}
+
+/* Responsive Chart Container */
+.chart-responsive {
+  @apply h-64 sm:h-80 lg:h-96;
+}
+
+/* Responsive Button Utilities */
+.btn-responsive {
+  @apply px-3 py-2 sm:px-4 sm:py-2 text-sm sm:text-base;
+}
+
+.btn-responsive-icon {
+  @apply p-2 sm:p-3;
+}
+
+/* Responsive Card Layouts */
+.dashboard-grid {
+  @apply grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 sm:gap-6;
+}
+
+.stats-grid {
+  @apply grid grid-cols-2 sm:grid-cols-4 gap-4;
+}
+
+.feature-grid {
+  @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6;
+}
+
+/* Mobile-first responsive breakpoints for custom components */
+@media (max-width: 640px) {
+  .mobile-stack {
+    @apply flex-col space-y-2;
+  }
+  
+  .mobile-full-width {
+    @apply w-full;
+  }
+  
+  .mobile-center {
+    @apply text-center;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 1024px) {
+  .tablet-grid-2 {
+    @apply grid-cols-2;
+  }
+  
+  .tablet-stack {
+    @apply flex-col space-y-4;
+  }
+}
+
+@media (min-width: 1025px) {
+  .desktop-grid-3 {
+    @apply grid-cols-3;
+  }
+  
+  .desktop-flex-row {
+    @apply flex-row space-x-6;
+  }
+}
+
+/* Responsive animations */
+@media (prefers-reduced-motion: no-preference) {
+  .animate-responsive {
+    @apply transition-all duration-300 ease-in-out;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-responsive {
+    @apply transition-none;
+  }
+}

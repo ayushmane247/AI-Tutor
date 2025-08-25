@@ -1,0 +1,201 @@
+id,subject,question,A,B,C,D,correct_option,correct_answer
+DSA-001,DSA,Time complexity of binary search in a sorted array of size N?,O(N),O(log N),O(N log N),O(1),B,O(log N)
+DSA-002,DSA,Worst-case time complexity of QuickSort?,O(N log N),O(N),O(N^2),O(log N),C,O(N^2)
+DSA-003,DSA,Average time to search in a balanced BST?,O(N),O(N log N),O(log N),O(1),C,O(log N)
+DSA-004,DSA,Which data structure works on FIFO?,Stack,Queue,Tree,Graph,B,Queue
+DSA-005,DSA,Which traversal of BST prints keys in ascending order?,Preorder,Inorder,Postorder,Level order,B,Inorder
+DSA-006,DSA,Which data structure is best for implementing recursion?,Queue,Array,Stack,Heap,C,Stack
+DSA-007,DSA,Which hashing collision resolution uses linked lists?,Open addressing,Chaining,Double hashing,Linear probing,B,Chaining
+DSA-008,DSA,Which heap supports efficient decrease-key used in Dijkstra?,Binary heap,Fibonacci heap,Binomial heap,Leftist heap,B,Fibonacci heap
+DSA-009,DSA,Which algorithm is used to find MST?,Dijkstra,Prim/Kruskal,Bellman-Ford,Floyd–Warshall,B,Prim/Kruskal
+DSA-010,DSA,"Space complexity of DFS using adjacency list for V vertices, E edges?",O(V),O(E),O(V+E),O(VE),C,O(V+E)
+DSA-011,DSA,Which structure gives O(1) average for insert/search?,BST,Hash table,Queue,Linked list,B,Hash table
+DSA-012,DSA,Which traversal uses a queue on a graph?,DFS,BFS,DLS,IDS,B,BFS
+DSA-013,DSA,"In a max-heap, the largest element is at:",Any leaf,Root,Random position,Rightmost node,B,Root
+DSA-014,DSA,Merge Sort is:,"In-place, unstable","Not in-place, stable","In-place, stable","Not in-place, unstable",B,"Not in-place, stable"
+DSA-015,DSA,Which is NOT a self-balancing BST?,AVL,Red-Black,Splay,B-Tree,D,B-Tree
+DSA-016,DSA,Amortized complexity of push/pop for dynamic array (vector)?,O(N),O(log N),O(1),O(N log N),C,O(1)
+DSA-017,DSA,Which algorithm detects negative cycles?,Dijkstra,Bellman-Ford,Prim,Kruskal,B,Bellman-Ford
+DSA-018,DSA,Which representation is best for a sparse graph?,Adjacency matrix,Adjacency list,Incidence matrix,Edge list only,B,Adjacency list
+DSA-019,DSA,Which strategy does QuickSelect use?,Divide and conquer,Greedy,Dynamic programming,Backtracking,A,Divide and conquer
+DSA-020,DSA,Number of edges in a complete undirected graph with N vertices?,N(N-1),N(N-1)/2,N^2,N^2/2,B,N(N-1)/2
+DSA-021,DSA,What is the time complexity of Linear search in unsorted array?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-022,DSA,What is the time complexity of Binary search in sorted array?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-023,DSA,What is the time complexity of Building a heap from N elements (heapify)?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-024,DSA,What is the time complexity of Enqueue/Dequeue in queue (amortized)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-025,DSA,What is the time complexity of Push/Pop in stack?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-026,DSA,What is the time complexity of Insertion in hash table (average)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-027,DSA,What is the time complexity of Lookup in balanced BST?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-028,DSA,What is the time complexity of Traversal of a binary tree?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-029,DSA,What is the time complexity of DFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-030,DSA,What is the time complexity of BFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-031,DSA,What is the time complexity of Matrix multiplication (naive)?,O(N^2),O(N^3),O(N^3),O(2^N),C,O(N^3)
+DSA-032,DSA,What is the time complexity of QuickSort average case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-033,DSA,What is the time complexity of Merge Sort worst case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-034,DSA,What is the time complexity of Insertion Sort worst case?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-035,DSA,What is the time complexity of Selection Sort time?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-036,DSA,Time complexity of binary search in a sorted array of size N?,O(N),O(log N),O(N log N),O(1),B,O(log N)
+DSA-037,DSA,Worst-case time complexity of QuickSort?,O(N log N),O(N),O(N^2),O(log N),C,O(N^2)
+DSA-038,DSA,Average time to search in a balanced BST?,O(N),O(N log N),O(log N),O(1),C,O(log N)
+DSA-039,DSA,Which data structure works on FIFO?,Stack,Queue,Tree,Graph,B,Queue
+DSA-040,DSA,Which traversal of BST prints keys in ascending order?,Preorder,Inorder,Postorder,Level order,B,Inorder
+DSA-041,DSA,Which data structure is best for implementing recursion?,Queue,Array,Stack,Heap,C,Stack
+DSA-042,DSA,Which hashing collision resolution uses linked lists?,Open addressing,Chaining,Double hashing,Linear probing,B,Chaining
+DSA-043,DSA,Which heap supports efficient decrease-key used in Dijkstra?,Binary heap,Fibonacci heap,Binomial heap,Leftist heap,B,Fibonacci heap
+DSA-044,DSA,Which algorithm is used to find MST?,Dijkstra,Prim/Kruskal,Bellman-Ford,Floyd–Warshall,B,Prim/Kruskal
+DSA-045,DSA,"Space complexity of DFS using adjacency list for V vertices, E edges?",O(V),O(E),O(V+E),O(VE),C,O(V+E)
+DSA-046,DSA,Which structure gives O(1) average for insert/search?,BST,Hash table,Queue,Linked list,B,Hash table
+DSA-047,DSA,Which traversal uses a queue on a graph?,DFS,BFS,DLS,IDS,B,BFS
+DSA-048,DSA,"In a max-heap, the largest element is at:",Any leaf,Root,Random position,Rightmost node,B,Root
+DSA-049,DSA,Merge Sort is:,"In-place, unstable","Not in-place, stable","In-place, stable","Not in-place, unstable",B,"Not in-place, stable"
+DSA-050,DSA,Which is NOT a self-balancing BST?,AVL,Red-Black,Splay,B-Tree,D,B-Tree
+DSA-051,DSA,Amortized complexity of push/pop for dynamic array (vector)?,O(N),O(log N),O(1),O(N log N),C,O(1)
+DSA-052,DSA,Which algorithm detects negative cycles?,Dijkstra,Bellman-Ford,Prim,Kruskal,B,Bellman-Ford
+DSA-053,DSA,Which representation is best for a sparse graph?,Adjacency matrix,Adjacency list,Incidence matrix,Edge list only,B,Adjacency list
+DSA-054,DSA,Which strategy does QuickSelect use?,Divide and conquer,Greedy,Dynamic programming,Backtracking,A,Divide and conquer
+DSA-055,DSA,Number of edges in a complete undirected graph with N vertices?,N(N-1),N(N-1)/2,N^2,N^2/2,B,N(N-1)/2
+DSA-056,DSA,What is the time complexity of Linear search in unsorted array?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-057,DSA,What is the time complexity of Binary search in sorted array?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-058,DSA,What is the time complexity of Building a heap from N elements (heapify)?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-059,DSA,What is the time complexity of Enqueue/Dequeue in queue (amortized)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-060,DSA,What is the time complexity of Push/Pop in stack?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-061,DSA,What is the time complexity of Insertion in hash table (average)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-062,DSA,What is the time complexity of Lookup in balanced BST?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-063,DSA,What is the time complexity of Traversal of a binary tree?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-064,DSA,What is the time complexity of DFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-065,DSA,What is the time complexity of BFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-066,DSA,What is the time complexity of Matrix multiplication (naive)?,O(N^2),O(N^3),O(N^3),O(2^N),C,O(N^3)
+DSA-067,DSA,What is the time complexity of QuickSort average case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-068,DSA,What is the time complexity of Merge Sort worst case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-069,DSA,What is the time complexity of Insertion Sort worst case?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-070,DSA,What is the time complexity of Selection Sort time?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-071,DSA,Time complexity of binary search in a sorted array of size N?,O(N),O(log N),O(N log N),O(1),B,O(log N)
+DSA-072,DSA,Worst-case time complexity of QuickSort?,O(N log N),O(N),O(N^2),O(log N),C,O(N^2)
+DSA-073,DSA,Average time to search in a balanced BST?,O(N),O(N log N),O(log N),O(1),C,O(log N)
+DSA-074,DSA,Which data structure works on FIFO?,Stack,Queue,Tree,Graph,B,Queue
+DSA-075,DSA,Which traversal of BST prints keys in ascending order?,Preorder,Inorder,Postorder,Level order,B,Inorder
+DSA-076,DSA,Which data structure is best for implementing recursion?,Queue,Array,Stack,Heap,C,Stack
+DSA-077,DSA,Which hashing collision resolution uses linked lists?,Open addressing,Chaining,Double hashing,Linear probing,B,Chaining
+DSA-078,DSA,Which heap supports efficient decrease-key used in Dijkstra?,Binary heap,Fibonacci heap,Binomial heap,Leftist heap,B,Fibonacci heap
+DSA-079,DSA,Which algorithm is used to find MST?,Dijkstra,Prim/Kruskal,Bellman-Ford,Floyd–Warshall,B,Prim/Kruskal
+DSA-080,DSA,"Space complexity of DFS using adjacency list for V vertices, E edges?",O(V),O(E),O(V+E),O(VE),C,O(V+E)
+DSA-081,DSA,Which structure gives O(1) average for insert/search?,BST,Hash table,Queue,Linked list,B,Hash table
+DSA-082,DSA,Which traversal uses a queue on a graph?,DFS,BFS,DLS,IDS,B,BFS
+DSA-083,DSA,"In a max-heap, the largest element is at:",Any leaf,Root,Random position,Rightmost node,B,Root
+DSA-084,DSA,Merge Sort is:,"In-place, unstable","Not in-place, stable","In-place, stable","Not in-place, unstable",B,"Not in-place, stable"
+DSA-085,DSA,Which is NOT a self-balancing BST?,AVL,Red-Black,Splay,B-Tree,D,B-Tree
+DSA-086,DSA,Amortized complexity of push/pop for dynamic array (vector)?,O(N),O(log N),O(1),O(N log N),C,O(1)
+DSA-087,DSA,Which algorithm detects negative cycles?,Dijkstra,Bellman-Ford,Prim,Kruskal,B,Bellman-Ford
+DSA-088,DSA,Which representation is best for a sparse graph?,Adjacency matrix,Adjacency list,Incidence matrix,Edge list only,B,Adjacency list
+DSA-089,DSA,Which strategy does QuickSelect use?,Divide and conquer,Greedy,Dynamic programming,Backtracking,A,Divide and conquer
+DSA-090,DSA,Number of edges in a complete undirected graph with N vertices?,N(N-1),N(N-1)/2,N^2,N^2/2,B,N(N-1)/2
+DSA-091,DSA,What is the time complexity of Linear search in unsorted array?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-092,DSA,What is the time complexity of Binary search in sorted array?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-093,DSA,What is the time complexity of Building a heap from N elements (heapify)?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-094,DSA,What is the time complexity of Enqueue/Dequeue in queue (amortized)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-095,DSA,What is the time complexity of Push/Pop in stack?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-096,DSA,What is the time complexity of Insertion in hash table (average)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-097,DSA,What is the time complexity of Lookup in balanced BST?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-098,DSA,What is the time complexity of Traversal of a binary tree?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-099,DSA,What is the time complexity of DFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-100,DSA,What is the time complexity of BFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-101,DSA,What is the time complexity of Matrix multiplication (naive)?,O(N^2),O(N^3),O(N^3),O(2^N),C,O(N^3)
+DSA-102,DSA,What is the time complexity of QuickSort average case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-103,DSA,What is the time complexity of Merge Sort worst case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-104,DSA,What is the time complexity of Insertion Sort worst case?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-105,DSA,What is the time complexity of Selection Sort time?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-106,DSA,Time complexity of binary search in a sorted array of size N?,O(N),O(log N),O(N log N),O(1),B,O(log N)
+DSA-107,DSA,Worst-case time complexity of QuickSort?,O(N log N),O(N),O(N^2),O(log N),C,O(N^2)
+DSA-108,DSA,Average time to search in a balanced BST?,O(N),O(N log N),O(log N),O(1),C,O(log N)
+DSA-109,DSA,Which data structure works on FIFO?,Stack,Queue,Tree,Graph,B,Queue
+DSA-110,DSA,Which traversal of BST prints keys in ascending order?,Preorder,Inorder,Postorder,Level order,B,Inorder
+DSA-111,DSA,Which data structure is best for implementing recursion?,Queue,Array,Stack,Heap,C,Stack
+DSA-112,DSA,Which hashing collision resolution uses linked lists?,Open addressing,Chaining,Double hashing,Linear probing,B,Chaining
+DSA-113,DSA,Which heap supports efficient decrease-key used in Dijkstra?,Binary heap,Fibonacci heap,Binomial heap,Leftist heap,B,Fibonacci heap
+DSA-114,DSA,Which algorithm is used to find MST?,Dijkstra,Prim/Kruskal,Bellman-Ford,Floyd–Warshall,B,Prim/Kruskal
+DSA-115,DSA,"Space complexity of DFS using adjacency list for V vertices, E edges?",O(V),O(E),O(V+E),O(VE),C,O(V+E)
+DSA-116,DSA,Which structure gives O(1) average for insert/search?,BST,Hash table,Queue,Linked list,B,Hash table
+DSA-117,DSA,Which traversal uses a queue on a graph?,DFS,BFS,DLS,IDS,B,BFS
+DSA-118,DSA,"In a max-heap, the largest element is at:",Any leaf,Root,Random position,Rightmost node,B,Root
+DSA-119,DSA,Merge Sort is:,"In-place, unstable","Not in-place, stable","In-place, stable","Not in-place, unstable",B,"Not in-place, stable"
+DSA-120,DSA,Which is NOT a self-balancing BST?,AVL,Red-Black,Splay,B-Tree,D,B-Tree
+DSA-121,DSA,Amortized complexity of push/pop for dynamic array (vector)?,O(N),O(log N),O(1),O(N log N),C,O(1)
+DSA-122,DSA,Which algorithm detects negative cycles?,Dijkstra,Bellman-Ford,Prim,Kruskal,B,Bellman-Ford
+DSA-123,DSA,Which representation is best for a sparse graph?,Adjacency matrix,Adjacency list,Incidence matrix,Edge list only,B,Adjacency list
+DSA-124,DSA,Which strategy does QuickSelect use?,Divide and conquer,Greedy,Dynamic programming,Backtracking,A,Divide and conquer
+DSA-125,DSA,Number of edges in a complete undirected graph with N vertices?,N(N-1),N(N-1)/2,N^2,N^2/2,B,N(N-1)/2
+DSA-126,DSA,What is the time complexity of Linear search in unsorted array?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-127,DSA,What is the time complexity of Binary search in sorted array?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-128,DSA,What is the time complexity of Building a heap from N elements (heapify)?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-129,DSA,What is the time complexity of Enqueue/Dequeue in queue (amortized)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-130,DSA,What is the time complexity of Push/Pop in stack?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-131,DSA,What is the time complexity of Insertion in hash table (average)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-132,DSA,What is the time complexity of Lookup in balanced BST?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-133,DSA,What is the time complexity of Traversal of a binary tree?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-134,DSA,What is the time complexity of DFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-135,DSA,What is the time complexity of BFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-136,DSA,What is the time complexity of Matrix multiplication (naive)?,O(N^2),O(N^3),O(N^3),O(2^N),C,O(N^3)
+DSA-137,DSA,What is the time complexity of QuickSort average case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-138,DSA,What is the time complexity of Merge Sort worst case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-139,DSA,What is the time complexity of Insertion Sort worst case?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-140,DSA,What is the time complexity of Selection Sort time?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-141,DSA,Time complexity of binary search in a sorted array of size N?,O(N),O(log N),O(N log N),O(1),B,O(log N)
+DSA-142,DSA,Worst-case time complexity of QuickSort?,O(N log N),O(N),O(N^2),O(log N),C,O(N^2)
+DSA-143,DSA,Average time to search in a balanced BST?,O(N),O(N log N),O(log N),O(1),C,O(log N)
+DSA-144,DSA,Which data structure works on FIFO?,Stack,Queue,Tree,Graph,B,Queue
+DSA-145,DSA,Which traversal of BST prints keys in ascending order?,Preorder,Inorder,Postorder,Level order,B,Inorder
+DSA-146,DSA,Which data structure is best for implementing recursion?,Queue,Array,Stack,Heap,C,Stack
+DSA-147,DSA,Which hashing collision resolution uses linked lists?,Open addressing,Chaining,Double hashing,Linear probing,B,Chaining
+DSA-148,DSA,Which heap supports efficient decrease-key used in Dijkstra?,Binary heap,Fibonacci heap,Binomial heap,Leftist heap,B,Fibonacci heap
+DSA-149,DSA,Which algorithm is used to find MST?,Dijkstra,Prim/Kruskal,Bellman-Ford,Floyd–Warshall,B,Prim/Kruskal
+DSA-150,DSA,"Space complexity of DFS using adjacency list for V vertices, E edges?",O(V),O(E),O(V+E),O(VE),C,O(V+E)
+DSA-151,DSA,Which structure gives O(1) average for insert/search?,BST,Hash table,Queue,Linked list,B,Hash table
+DSA-152,DSA,Which traversal uses a queue on a graph?,DFS,BFS,DLS,IDS,B,BFS
+DSA-153,DSA,"In a max-heap, the largest element is at:",Any leaf,Root,Random position,Rightmost node,B,Root
+DSA-154,DSA,Merge Sort is:,"In-place, unstable","Not in-place, stable","In-place, stable","Not in-place, unstable",B,"Not in-place, stable"
+DSA-155,DSA,Which is NOT a self-balancing BST?,AVL,Red-Black,Splay,B-Tree,D,B-Tree
+DSA-156,DSA,Amortized complexity of push/pop for dynamic array (vector)?,O(N),O(log N),O(1),O(N log N),C,O(1)
+DSA-157,DSA,Which algorithm detects negative cycles?,Dijkstra,Bellman-Ford,Prim,Kruskal,B,Bellman-Ford
+DSA-158,DSA,Which representation is best for a sparse graph?,Adjacency matrix,Adjacency list,Incidence matrix,Edge list only,B,Adjacency list
+DSA-159,DSA,Which strategy does QuickSelect use?,Divide and conquer,Greedy,Dynamic programming,Backtracking,A,Divide and conquer
+DSA-160,DSA,Number of edges in a complete undirected graph with N vertices?,N(N-1),N(N-1)/2,N^2,N^2/2,B,N(N-1)/2
+DSA-161,DSA,What is the time complexity of Linear search in unsorted array?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-162,DSA,What is the time complexity of Binary search in sorted array?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-163,DSA,What is the time complexity of Building a heap from N elements (heapify)?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-164,DSA,What is the time complexity of Enqueue/Dequeue in queue (amortized)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-165,DSA,What is the time complexity of Push/Pop in stack?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-166,DSA,What is the time complexity of Insertion in hash table (average)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-167,DSA,What is the time complexity of Lookup in balanced BST?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-168,DSA,What is the time complexity of Traversal of a binary tree?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-169,DSA,What is the time complexity of DFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-170,DSA,What is the time complexity of BFS on graph with V vertices and E edges?,O(N^2),O(N^3),O(V+E),O(2^N),C,O(V+E)
+DSA-171,DSA,What is the time complexity of Matrix multiplication (naive)?,O(N^2),O(N^3),O(N^3),O(2^N),C,O(N^3)
+DSA-172,DSA,What is the time complexity of QuickSort average case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-173,DSA,What is the time complexity of Merge Sort worst case?,O(1),O(log N),O(N),O(N log N),D,O(N log N)
+DSA-174,DSA,What is the time complexity of Insertion Sort worst case?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-175,DSA,What is the time complexity of Selection Sort time?,O(N^2),O(N^3),O(N^2),O(2^N),C,O(N^2)
+DSA-176,DSA,Time complexity of binary search in a sorted array of size N?,O(N),O(log N),O(N log N),O(1),B,O(log N)
+DSA-177,DSA,Worst-case time complexity of QuickSort?,O(N log N),O(N),O(N^2),O(log N),C,O(N^2)
+DSA-178,DSA,Average time to search in a balanced BST?,O(N),O(N log N),O(log N),O(1),C,O(log N)
+DSA-179,DSA,Which data structure works on FIFO?,Stack,Queue,Tree,Graph,B,Queue
+DSA-180,DSA,Which traversal of BST prints keys in ascending order?,Preorder,Inorder,Postorder,Level order,B,Inorder
+DSA-181,DSA,Which data structure is best for implementing recursion?,Queue,Array,Stack,Heap,C,Stack
+DSA-182,DSA,Which hashing collision resolution uses linked lists?,Open addressing,Chaining,Double hashing,Linear probing,B,Chaining
+DSA-183,DSA,Which heap supports efficient decrease-key used in Dijkstra?,Binary heap,Fibonacci heap,Binomial heap,Leftist heap,B,Fibonacci heap
+DSA-184,DSA,Which algorithm is used to find MST?,Dijkstra,Prim/Kruskal,Bellman-Ford,Floyd–Warshall,B,Prim/Kruskal
+DSA-185,DSA,"Space complexity of DFS using adjacency list for V vertices, E edges?",O(V),O(E),O(V+E),O(VE),C,O(V+E)
+DSA-186,DSA,Which structure gives O(1) average for insert/search?,BST,Hash table,Queue,Linked list,B,Hash table
+DSA-187,DSA,Which traversal uses a queue on a graph?,DFS,BFS,DLS,IDS,B,BFS
+DSA-188,DSA,"In a max-heap, the largest element is at:",Any leaf,Root,Random position,Rightmost node,B,Root
+DSA-189,DSA,Merge Sort is:,"In-place, unstable","Not in-place, stable","In-place, stable","Not in-place, unstable",B,"Not in-place, stable"
+DSA-190,DSA,Which is NOT a self-balancing BST?,AVL,Red-Black,Splay,B-Tree,D,B-Tree
+DSA-191,DSA,Amortized complexity of push/pop for dynamic array (vector)?,O(N),O(log N),O(1),O(N log N),C,O(1)
+DSA-192,DSA,Which algorithm detects negative cycles?,Dijkstra,Bellman-Ford,Prim,Kruskal,B,Bellman-Ford
+DSA-193,DSA,Which representation is best for a sparse graph?,Adjacency matrix,Adjacency list,Incidence matrix,Edge list only,B,Adjacency list
+DSA-194,DSA,Which strategy does QuickSelect use?,Divide and conquer,Greedy,Dynamic programming,Backtracking,A,Divide and conquer
+DSA-195,DSA,Number of edges in a complete undirected graph with N vertices?,N(N-1),N(N-1)/2,N^2,N^2/2,B,N(N-1)/2
+DSA-196,DSA,What is the time complexity of Linear search in unsorted array?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-197,DSA,What is the time complexity of Binary search in sorted array?,O(1),O(log N),O(N),O(N log N),B,O(log N)
+DSA-198,DSA,What is the time complexity of Building a heap from N elements (heapify)?,O(1),O(log N),O(N),O(N log N),C,O(N)
+DSA-199,DSA,What is the time complexity of Enqueue/Dequeue in queue (amortized)?,O(1),O(log N),O(N),O(N log N),A,O(1)
+DSA-200,DSA,What is the time complexity of Push/Pop in stack?,O(1),O(log N),O(N),O(N log N),A,O(1)

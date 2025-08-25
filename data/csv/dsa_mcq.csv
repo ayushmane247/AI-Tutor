@@ -1,0 +1,11 @@
+question,type,options,correctAnswer,explanation,difficulty,topic
+"What is the time complexity of binary search?",multiple-choice,"O(1),O(log n),O(n),O(n²)",1,"Binary search has O(log n) time complexity because it divides the search space in half with each iteration.",beginner,Searching
+"Which data structure follows LIFO principle?",multiple-choice,"Queue,Stack,Linked List,Tree",1,"Stack follows LIFO (Last In, First Out) principle where the last element added is the first one to be removed.",beginner,Stacks & Queues
+"What is the worst-case time complexity of quicksort?",multiple-choice,"O(n log n),O(n²),O(n),O(log n)",1,"Quicksort has O(n²) worst-case time complexity when the pivot is always the smallest or largest element.",intermediate,Sorting
+"What is the space complexity of merge sort?",multiple-choice,"O(1),O(log n),O(n),O(n log n)",2,"Merge sort requires O(n) additional space to store the merged subarrays during the sorting process.",intermediate,Sorting
+"What is the time complexity of inserting an element at the beginning of an array?",multiple-choice,"O(1),O(log n),O(n),O(n²)",2,"Inserting at the beginning requires shifting all existing elements, which takes O(n) time.",beginner,Arrays
+"What is the time complexity of accessing an element in a hash table?",multiple-choice,"O(1),O(log n),O(n),O(n²)",0,"Hash table provides average O(1) time complexity for access operations.",intermediate,Hash Tables
+"What is the time complexity of finding the minimum element in a binary search tree?",multiple-choice,"O(1),O(log n),O(n),O(n²)",1,"Finding minimum requires traversing to the leftmost node, which takes O(log n) time in a balanced tree.",intermediate,Trees
+"What is the space complexity of recursive binary search?",multiple-choice,"O(1),O(log n),O(n),O(n log n)",1,"Recursive binary search uses O(log n) space due to the call stack depth.",intermediate,Searching
+"What is the time complexity of bubble sort?",multiple-choice,"O(n),O(n log n),O(n²),O(n³)",2,"Bubble sort has O(n²) time complexity due to nested loops comparing adjacent elements.",beginner,Sorting
+"What is the time complexity of depth-first search on a graph?",multiple-choice,"O(V),O(E),O(V + E),O(V × E)",2,"DFS visits each vertex and edge at most once, giving O(V + E) time complexity.",intermediate,Graphs

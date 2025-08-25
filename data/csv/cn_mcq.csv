@@ -1,0 +1,11 @@
+question,type,options,correctAnswer,explanation,difficulty,topic
+"Which layer of the OSI model is responsible for routing?",multiple-choice,"Physical Layer,Data Link Layer,Network Layer,Transport Layer",2,"The Network Layer (Layer 3) is responsible for routing packets between different networks.",beginner,OSI Model
+"What is the default port number for HTTPS?",multiple-choice,"80,443,8080,21",1,"HTTPS uses port 443 by default, while HTTP uses port 80.",beginner,HTTP/HTTPS
+"What is the default port number for HTTP?",multiple-choice,"80,443,8080,21",0,"HTTP uses port 80 by default.",beginner,HTTP/HTTPS
+"What is the maximum size of an IPv4 address?",multiple-choice,"32 bits,64 bits,128 bits,256 bits",0,"IPv4 addresses are 32 bits (4 bytes) long.",beginner,TCP/IP
+"What is the maximum size of an IPv6 address?",multiple-choice,"32 bits,64 bits,128 bits,256 bits",2,"IPv6 addresses are 128 bits (16 bytes) long.",intermediate,TCP/IP
+"What is the purpose of DNS?",multiple-choice,"To encrypt data,To translate domain names to IP addresses,To route packets,To establish connections",1,"DNS (Domain Name System) translates human-readable domain names into IP addresses.",beginner,DNS
+"What is the main difference between TCP and UDP?",multiple-choice,"TCP is faster,TCP is connection-oriented,UDP has better error checking,UDP is more secure",1,"TCP is connection-oriented and reliable, while UDP is connectionless and unreliable.",intermediate,TCP/IP
+"What is a subnet mask used for?",multiple-choice,"To encrypt data,To identify network portion of IP address,To route packets,To establish connections",1,"A subnet mask is used to identify which portion of an IP address belongs to the network.",intermediate,TCP/IP
+"What is the purpose of ARP?",multiple-choice,"To encrypt data,To translate IP addresses to MAC addresses,To route packets,To establish connections",1,"ARP (Address Resolution Protocol) translates IP addresses to MAC addresses.",intermediate,TCP/IP
+"What is the maximum transmission unit (MTU) for Ethernet?",multiple-choice,"512 bytes,1024 bytes,1500 bytes,2048 bytes",2,"The standard MTU for Ethernet is 1500 bytes.",intermediate,Data Link Layer

@@ -1,0 +1,201 @@
+id,subject,question,A,B,C,D,correct_option,correct_answer
+CN-001,CN,How many layers are in the OSI model?,5,6,7,4,C,7
+CN-002,CN,Which protocol uses port 80 by default?,HTTPS,FTP,HTTP,SSH,C,HTTP
+CN-003,CN,Which of the following is connection-oriented?,UDP,IP,TCP,ICMP,C,TCP
+CN-004,CN,Which device operates primarily at Layer 2?,Router,Switch,Repeater,Gateway,B,Switch
+CN-005,CN,Which address is used at the Data Link layer?,IP address,MAC address,Port number,URL,B,MAC address
+CN-006,CN,Which protocol resolves IP to MAC in IPv4 networks?,DNS,ICMP,ARP,RARP,C,ARP
+CN-007,CN,Which protocol is used for secure web traffic?,HTTP,HTTPS,FTP,Telnet,B,HTTPS
+CN-008,CN,Which of the following uses port 22?,SSH,SMTP,DNS,RDP,A,SSH
+CN-009,CN,Which protocol provides best-effort delivery without guarantees?,TCP,UDP,SCTP,HTTP,B,UDP
+CN-010,CN,Which layer is responsible for end-to-end reliability?,Network,Transport,Session,Data Link,B,Transport
+CN-011,CN,Which protocol translates domain names to IP addresses?,DHCP,DNS,NTP,SNMP,B,DNS
+CN-012,CN,Which is NOT a private IPv4 range?,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16,8.8.0.0/16,D,8.8.0.0/16
+CN-013,CN,What is the size of an IPv4 address?,32 bits,48 bits,64 bits,128 bits,A,32 bits
+CN-014,CN,What is the size of an IPv6 address?,32 bits,64 bits,96 bits,128 bits,D,128 bits
+CN-015,CN,Which protocol is used to automatically assign IP addresses?,DNS,DHCP,ARP,RIP,B,DHCP
+CN-016,CN,Which routing protocol is distance-vector?,OSPF,EIGRP (advanced DV),RIP,IS-IS,C,RIP
+CN-017,CN,Which protocol uses port 443?,HTTP,FTP,HTTPS,SMTP,C,HTTPS
+CN-018,CN,Which command checks reachability using ICMP Echo?,ping,traceroute,nslookup,netstat,A,ping
+CN-019,CN,Which record type maps a hostname to an IPv4 address?,AAAA,CNAME,A,MX,C,A
+CN-020,CN,Which protocol is used for email transfer between servers?,IMAP,POP3,SMTP,HTTP,C,SMTP
+CN-021,CN,Which default TCP/UDP port is commonly associated with FTP control?,21,22,20,23,A,21
+CN-022,CN,Which default TCP/UDP port is commonly associated with SSH?,22,23,21,24,A,22
+CN-023,CN,Which default TCP/UDP port is commonly associated with Telnet?,23,24,22,25,A,23
+CN-024,CN,Which default TCP/UDP port is commonly associated with SMTP?,25,26,24,27,A,25
+CN-025,CN,Which default TCP/UDP port is commonly associated with DNS?,53,54,52,55,A,53
+CN-026,CN,Which default TCP/UDP port is commonly associated with DHCP server?,67,68,66,69,A,67
+CN-027,CN,Which default TCP/UDP port is commonly associated with DHCP client?,68,69,67,70,A,68
+CN-028,CN,Which default TCP/UDP port is commonly associated with TFTP?,69,70,68,71,A,69
+CN-029,CN,Which default TCP/UDP port is commonly associated with HTTP?,80,81,79,82,A,80
+CN-030,CN,Which default TCP/UDP port is commonly associated with POP3?,110,111,109,112,A,110
+CN-031,CN,Which default TCP/UDP port is commonly associated with IMAP?,143,144,142,145,A,143
+CN-032,CN,Which default TCP/UDP port is commonly associated with SNMP?,161,162,160,163,A,161
+CN-033,CN,Which default TCP/UDP port is commonly associated with HTTPS?,443,444,442,445,A,443
+CN-034,CN,Which default TCP/UDP port is commonly associated with RDP?,3389,3390,3388,3391,A,3389
+CN-035,CN,Which default TCP/UDP port is commonly associated with MySQL?,3306,3307,3305,3308,A,3306
+CN-036,CN,Which default TCP/UDP port is commonly associated with PostgreSQL?,5432,5433,5431,5434,A,5432
+CN-037,CN,Which default TCP/UDP port is commonly associated with NTP?,123,124,122,125,A,123
+CN-038,CN,Which default TCP/UDP port is commonly associated with LDAP?,389,390,388,391,A,389
+CN-039,CN,Which default TCP/UDP port is commonly associated with LDAPS?,636,637,635,638,A,636
+CN-040,CN,Which default TCP/UDP port is commonly associated with SMB?,445,446,444,447,A,445
+CN-041,CN,Routing occurs at which OSI layer?,Physical,Data Link,Network,Transport,C,Network
+CN-042,CN,Encryption is typically associated with which OSI layer service?,Presentation,Session,Transport,Network,A,Presentation
+CN-043,CN,Session management is the job of which layer?,Session,Transport,Application,Data Link,A,Session
+CN-044,CN,Framing is done at which layer?,Data Link,Network,Transport,Physical,A,Data Link
+CN-045,CN,Bit transmission over media is at which layer?,Application,Session,Data Link,Physical,D,Physical
+CN-046,CN,How many layers are in the OSI model?,5,6,7,4,C,7
+CN-047,CN,Which protocol uses port 80 by default?,HTTPS,FTP,HTTP,SSH,C,HTTP
+CN-048,CN,Which of the following is connection-oriented?,UDP,IP,TCP,ICMP,C,TCP
+CN-049,CN,Which device operates primarily at Layer 2?,Router,Switch,Repeater,Gateway,B,Switch
+CN-050,CN,Which address is used at the Data Link layer?,IP address,MAC address,Port number,URL,B,MAC address
+CN-051,CN,Which protocol resolves IP to MAC in IPv4 networks?,DNS,ICMP,ARP,RARP,C,ARP
+CN-052,CN,Which protocol is used for secure web traffic?,HTTP,HTTPS,FTP,Telnet,B,HTTPS
+CN-053,CN,Which of the following uses port 22?,SSH,SMTP,DNS,RDP,A,SSH
+CN-054,CN,Which protocol provides best-effort delivery without guarantees?,TCP,UDP,SCTP,HTTP,B,UDP
+CN-055,CN,Which layer is responsible for end-to-end reliability?,Network,Transport,Session,Data Link,B,Transport
+CN-056,CN,Which protocol translates domain names to IP addresses?,DHCP,DNS,NTP,SNMP,B,DNS
+CN-057,CN,Which is NOT a private IPv4 range?,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16,8.8.0.0/16,D,8.8.0.0/16
+CN-058,CN,What is the size of an IPv4 address?,32 bits,48 bits,64 bits,128 bits,A,32 bits
+CN-059,CN,What is the size of an IPv6 address?,32 bits,64 bits,96 bits,128 bits,D,128 bits
+CN-060,CN,Which protocol is used to automatically assign IP addresses?,DNS,DHCP,ARP,RIP,B,DHCP
+CN-061,CN,Which routing protocol is distance-vector?,OSPF,EIGRP (advanced DV),RIP,IS-IS,C,RIP
+CN-062,CN,Which protocol uses port 443?,HTTP,FTP,HTTPS,SMTP,C,HTTPS
+CN-063,CN,Which command checks reachability using ICMP Echo?,ping,traceroute,nslookup,netstat,A,ping
+CN-064,CN,Which record type maps a hostname to an IPv4 address?,AAAA,CNAME,A,MX,C,A
+CN-065,CN,Which protocol is used for email transfer between servers?,IMAP,POP3,SMTP,HTTP,C,SMTP
+CN-066,CN,Which default TCP/UDP port is commonly associated with FTP control?,21,22,20,23,A,21
+CN-067,CN,Which default TCP/UDP port is commonly associated with SSH?,22,23,21,24,A,22
+CN-068,CN,Which default TCP/UDP port is commonly associated with Telnet?,23,24,22,25,A,23
+CN-069,CN,Which default TCP/UDP port is commonly associated with SMTP?,25,26,24,27,A,25
+CN-070,CN,Which default TCP/UDP port is commonly associated with DNS?,53,54,52,55,A,53
+CN-071,CN,Which default TCP/UDP port is commonly associated with DHCP server?,67,68,66,69,A,67
+CN-072,CN,Which default TCP/UDP port is commonly associated with DHCP client?,68,69,67,70,A,68
+CN-073,CN,Which default TCP/UDP port is commonly associated with TFTP?,69,70,68,71,A,69
+CN-074,CN,Which default TCP/UDP port is commonly associated with HTTP?,80,81,79,82,A,80
+CN-075,CN,Which default TCP/UDP port is commonly associated with POP3?,110,111,109,112,A,110
+CN-076,CN,Which default TCP/UDP port is commonly associated with IMAP?,143,144,142,145,A,143
+CN-077,CN,Which default TCP/UDP port is commonly associated with SNMP?,161,162,160,163,A,161
+CN-078,CN,Which default TCP/UDP port is commonly associated with HTTPS?,443,444,442,445,A,443
+CN-079,CN,Which default TCP/UDP port is commonly associated with RDP?,3389,3390,3388,3391,A,3389
+CN-080,CN,Which default TCP/UDP port is commonly associated with MySQL?,3306,3307,3305,3308,A,3306
+CN-081,CN,Which default TCP/UDP port is commonly associated with PostgreSQL?,5432,5433,5431,5434,A,5432
+CN-082,CN,Which default TCP/UDP port is commonly associated with NTP?,123,124,122,125,A,123
+CN-083,CN,Which default TCP/UDP port is commonly associated with LDAP?,389,390,388,391,A,389
+CN-084,CN,Which default TCP/UDP port is commonly associated with LDAPS?,636,637,635,638,A,636
+CN-085,CN,Which default TCP/UDP port is commonly associated with SMB?,445,446,444,447,A,445
+CN-086,CN,Routing occurs at which OSI layer?,Physical,Data Link,Network,Transport,C,Network
+CN-087,CN,Encryption is typically associated with which OSI layer service?,Presentation,Session,Transport,Network,A,Presentation
+CN-088,CN,Session management is the job of which layer?,Session,Transport,Application,Data Link,A,Session
+CN-089,CN,Framing is done at which layer?,Data Link,Network,Transport,Physical,A,Data Link
+CN-090,CN,Bit transmission over media is at which layer?,Application,Session,Data Link,Physical,D,Physical
+CN-091,CN,How many layers are in the OSI model?,5,6,7,4,C,7
+CN-092,CN,Which protocol uses port 80 by default?,HTTPS,FTP,HTTP,SSH,C,HTTP
+CN-093,CN,Which of the following is connection-oriented?,UDP,IP,TCP,ICMP,C,TCP
+CN-094,CN,Which device operates primarily at Layer 2?,Router,Switch,Repeater,Gateway,B,Switch
+CN-095,CN,Which address is used at the Data Link layer?,IP address,MAC address,Port number,URL,B,MAC address
+CN-096,CN,Which protocol resolves IP to MAC in IPv4 networks?,DNS,ICMP,ARP,RARP,C,ARP
+CN-097,CN,Which protocol is used for secure web traffic?,HTTP,HTTPS,FTP,Telnet,B,HTTPS
+CN-098,CN,Which of the following uses port 22?,SSH,SMTP,DNS,RDP,A,SSH
+CN-099,CN,Which protocol provides best-effort delivery without guarantees?,TCP,UDP,SCTP,HTTP,B,UDP
+CN-100,CN,Which layer is responsible for end-to-end reliability?,Network,Transport,Session,Data Link,B,Transport
+CN-101,CN,Which protocol translates domain names to IP addresses?,DHCP,DNS,NTP,SNMP,B,DNS
+CN-102,CN,Which is NOT a private IPv4 range?,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16,8.8.0.0/16,D,8.8.0.0/16
+CN-103,CN,What is the size of an IPv4 address?,32 bits,48 bits,64 bits,128 bits,A,32 bits
+CN-104,CN,What is the size of an IPv6 address?,32 bits,64 bits,96 bits,128 bits,D,128 bits
+CN-105,CN,Which protocol is used to automatically assign IP addresses?,DNS,DHCP,ARP,RIP,B,DHCP
+CN-106,CN,Which routing protocol is distance-vector?,OSPF,EIGRP (advanced DV),RIP,IS-IS,C,RIP
+CN-107,CN,Which protocol uses port 443?,HTTP,FTP,HTTPS,SMTP,C,HTTPS
+CN-108,CN,Which command checks reachability using ICMP Echo?,ping,traceroute,nslookup,netstat,A,ping
+CN-109,CN,Which record type maps a hostname to an IPv4 address?,AAAA,CNAME,A,MX,C,A
+CN-110,CN,Which protocol is used for email transfer between servers?,IMAP,POP3,SMTP,HTTP,C,SMTP
+CN-111,CN,Which default TCP/UDP port is commonly associated with FTP control?,21,22,20,23,A,21
+CN-112,CN,Which default TCP/UDP port is commonly associated with SSH?,22,23,21,24,A,22
+CN-113,CN,Which default TCP/UDP port is commonly associated with Telnet?,23,24,22,25,A,23
+CN-114,CN,Which default TCP/UDP port is commonly associated with SMTP?,25,26,24,27,A,25
+CN-115,CN,Which default TCP/UDP port is commonly associated with DNS?,53,54,52,55,A,53
+CN-116,CN,Which default TCP/UDP port is commonly associated with DHCP server?,67,68,66,69,A,67
+CN-117,CN,Which default TCP/UDP port is commonly associated with DHCP client?,68,69,67,70,A,68
+CN-118,CN,Which default TCP/UDP port is commonly associated with TFTP?,69,70,68,71,A,69
+CN-119,CN,Which default TCP/UDP port is commonly associated with HTTP?,80,81,79,82,A,80
+CN-120,CN,Which default TCP/UDP port is commonly associated with POP3?,110,111,109,112,A,110
+CN-121,CN,Which default TCP/UDP port is commonly associated with IMAP?,143,144,142,145,A,143
+CN-122,CN,Which default TCP/UDP port is commonly associated with SNMP?,161,162,160,163,A,161
+CN-123,CN,Which default TCP/UDP port is commonly associated with HTTPS?,443,444,442,445,A,443
+CN-124,CN,Which default TCP/UDP port is commonly associated with RDP?,3389,3390,3388,3391,A,3389
+CN-125,CN,Which default TCP/UDP port is commonly associated with MySQL?,3306,3307,3305,3308,A,3306
+CN-126,CN,Which default TCP/UDP port is commonly associated with PostgreSQL?,5432,5433,5431,5434,A,5432
+CN-127,CN,Which default TCP/UDP port is commonly associated with NTP?,123,124,122,125,A,123
+CN-128,CN,Which default TCP/UDP port is commonly associated with LDAP?,389,390,388,391,A,389
+CN-129,CN,Which default TCP/UDP port is commonly associated with LDAPS?,636,637,635,638,A,636
+CN-130,CN,Which default TCP/UDP port is commonly associated with SMB?,445,446,444,447,A,445
+CN-131,CN,Routing occurs at which OSI layer?,Physical,Data Link,Network,Transport,C,Network
+CN-132,CN,Encryption is typically associated with which OSI layer service?,Presentation,Session,Transport,Network,A,Presentation
+CN-133,CN,Session management is the job of which layer?,Session,Transport,Application,Data Link,A,Session
+CN-134,CN,Framing is done at which layer?,Data Link,Network,Transport,Physical,A,Data Link
+CN-135,CN,Bit transmission over media is at which layer?,Application,Session,Data Link,Physical,D,Physical
+CN-136,CN,How many layers are in the OSI model?,5,6,7,4,C,7
+CN-137,CN,Which protocol uses port 80 by default?,HTTPS,FTP,HTTP,SSH,C,HTTP
+CN-138,CN,Which of the following is connection-oriented?,UDP,IP,TCP,ICMP,C,TCP
+CN-139,CN,Which device operates primarily at Layer 2?,Router,Switch,Repeater,Gateway,B,Switch
+CN-140,CN,Which address is used at the Data Link layer?,IP address,MAC address,Port number,URL,B,MAC address
+CN-141,CN,Which protocol resolves IP to MAC in IPv4 networks?,DNS,ICMP,ARP,RARP,C,ARP
+CN-142,CN,Which protocol is used for secure web traffic?,HTTP,HTTPS,FTP,Telnet,B,HTTPS
+CN-143,CN,Which of the following uses port 22?,SSH,SMTP,DNS,RDP,A,SSH
+CN-144,CN,Which protocol provides best-effort delivery without guarantees?,TCP,UDP,SCTP,HTTP,B,UDP
+CN-145,CN,Which layer is responsible for end-to-end reliability?,Network,Transport,Session,Data Link,B,Transport
+CN-146,CN,Which protocol translates domain names to IP addresses?,DHCP,DNS,NTP,SNMP,B,DNS
+CN-147,CN,Which is NOT a private IPv4 range?,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16,8.8.0.0/16,D,8.8.0.0/16
+CN-148,CN,What is the size of an IPv4 address?,32 bits,48 bits,64 bits,128 bits,A,32 bits
+CN-149,CN,What is the size of an IPv6 address?,32 bits,64 bits,96 bits,128 bits,D,128 bits
+CN-150,CN,Which protocol is used to automatically assign IP addresses?,DNS,DHCP,ARP,RIP,B,DHCP
+CN-151,CN,Which routing protocol is distance-vector?,OSPF,EIGRP (advanced DV),RIP,IS-IS,C,RIP
+CN-152,CN,Which protocol uses port 443?,HTTP,FTP,HTTPS,SMTP,C,HTTPS
+CN-153,CN,Which command checks reachability using ICMP Echo?,ping,traceroute,nslookup,netstat,A,ping
+CN-154,CN,Which record type maps a hostname to an IPv4 address?,AAAA,CNAME,A,MX,C,A
+CN-155,CN,Which protocol is used for email transfer between servers?,IMAP,POP3,SMTP,HTTP,C,SMTP
+CN-156,CN,Which default TCP/UDP port is commonly associated with FTP control?,21,22,20,23,A,21
+CN-157,CN,Which default TCP/UDP port is commonly associated with SSH?,22,23,21,24,A,22
+CN-158,CN,Which default TCP/UDP port is commonly associated with Telnet?,23,24,22,25,A,23
+CN-159,CN,Which default TCP/UDP port is commonly associated with SMTP?,25,26,24,27,A,25
+CN-160,CN,Which default TCP/UDP port is commonly associated with DNS?,53,54,52,55,A,53
+CN-161,CN,Which default TCP/UDP port is commonly associated with DHCP server?,67,68,66,69,A,67
+CN-162,CN,Which default TCP/UDP port is commonly associated with DHCP client?,68,69,67,70,A,68
+CN-163,CN,Which default TCP/UDP port is commonly associated with TFTP?,69,70,68,71,A,69
+CN-164,CN,Which default TCP/UDP port is commonly associated with HTTP?,80,81,79,82,A,80
+CN-165,CN,Which default TCP/UDP port is commonly associated with POP3?,110,111,109,112,A,110
+CN-166,CN,Which default TCP/UDP port is commonly associated with IMAP?,143,144,142,145,A,143
+CN-167,CN,Which default TCP/UDP port is commonly associated with SNMP?,161,162,160,163,A,161
+CN-168,CN,Which default TCP/UDP port is commonly associated with HTTPS?,443,444,442,445,A,443
+CN-169,CN,Which default TCP/UDP port is commonly associated with RDP?,3389,3390,3388,3391,A,3389
+CN-170,CN,Which default TCP/UDP port is commonly associated with MySQL?,3306,3307,3305,3308,A,3306
+CN-171,CN,Which default TCP/UDP port is commonly associated with PostgreSQL?,5432,5433,5431,5434,A,5432
+CN-172,CN,Which default TCP/UDP port is commonly associated with NTP?,123,124,122,125,A,123
+CN-173,CN,Which default TCP/UDP port is commonly associated with LDAP?,389,390,388,391,A,389
+CN-174,CN,Which default TCP/UDP port is commonly associated with LDAPS?,636,637,635,638,A,636
+CN-175,CN,Which default TCP/UDP port is commonly associated with SMB?,445,446,444,447,A,445
+CN-176,CN,Routing occurs at which OSI layer?,Physical,Data Link,Network,Transport,C,Network
+CN-177,CN,Encryption is typically associated with which OSI layer service?,Presentation,Session,Transport,Network,A,Presentation
+CN-178,CN,Session management is the job of which layer?,Session,Transport,Application,Data Link,A,Session
+CN-179,CN,Framing is done at which layer?,Data Link,Network,Transport,Physical,A,Data Link
+CN-180,CN,Bit transmission over media is at which layer?,Application,Session,Data Link,Physical,D,Physical
+CN-181,CN,How many layers are in the OSI model?,5,6,7,4,C,7
+CN-182,CN,Which protocol uses port 80 by default?,HTTPS,FTP,HTTP,SSH,C,HTTP
+CN-183,CN,Which of the following is connection-oriented?,UDP,IP,TCP,ICMP,C,TCP
+CN-184,CN,Which device operates primarily at Layer 2?,Router,Switch,Repeater,Gateway,B,Switch
+CN-185,CN,Which address is used at the Data Link layer?,IP address,MAC address,Port number,URL,B,MAC address
+CN-186,CN,Which protocol resolves IP to MAC in IPv4 networks?,DNS,ICMP,ARP,RARP,C,ARP
+CN-187,CN,Which protocol is used for secure web traffic?,HTTP,HTTPS,FTP,Telnet,B,HTTPS
+CN-188,CN,Which of the following uses port 22?,SSH,SMTP,DNS,RDP,A,SSH
+CN-189,CN,Which protocol provides best-effort delivery without guarantees?,TCP,UDP,SCTP,HTTP,B,UDP
+CN-190,CN,Which layer is responsible for end-to-end reliability?,Network,Transport,Session,Data Link,B,Transport
+CN-191,CN,Which protocol translates domain names to IP addresses?,DHCP,DNS,NTP,SNMP,B,DNS
+CN-192,CN,Which is NOT a private IPv4 range?,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16,8.8.0.0/16,D,8.8.0.0/16
+CN-193,CN,What is the size of an IPv4 address?,32 bits,48 bits,64 bits,128 bits,A,32 bits
+CN-194,CN,What is the size of an IPv6 address?,32 bits,64 bits,96 bits,128 bits,D,128 bits
+CN-195,CN,Which protocol is used to automatically assign IP addresses?,DNS,DHCP,ARP,RIP,B,DHCP
+CN-196,CN,Which routing protocol is distance-vector?,OSPF,EIGRP (advanced DV),RIP,IS-IS,C,RIP
+CN-197,CN,Which protocol uses port 443?,HTTP,FTP,HTTPS,SMTP,C,HTTPS
+CN-198,CN,Which command checks reachability using ICMP Echo?,ping,traceroute,nslookup,netstat,A,ping
+CN-199,CN,Which record type maps a hostname to an IPv4 address?,AAAA,CNAME,A,MX,C,A
+CN-200,CN,Which protocol is used for email transfer between servers?,IMAP,POP3,SMTP,HTTP,C,SMTP

@@ -1,0 +1,201 @@
+id,subject,question,A,B,C,D,correct_option,correct_answer
+DBMS-001,DBMS,Which of the following is NOT an ACID property?,Atomicity,Consistency,Isolation,DurabilityPlus,D,DurabilityPlus
+DBMS-002,DBMS,Which SQL command is used to remove a table and its data permanently?,DROP,DELETE,TRUNCATE,REMOVE,A,DROP
+DBMS-003,DBMS,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B,2NF
+DBMS-004,DBMS,Which clause is used to filter aggregated groups?,WHERE,GROUP BY,HAVING,ORDER BY,C,HAVING
+DBMS-005,DBMS,Which join returns rows when there is a match in either table?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D,FULL OUTER JOIN
+DBMS-006,DBMS,What does the PRIMARY KEY enforce?,Uniqueness only,Not Null only,Both uniqueness and not null,Foreign key relationship,C,Both uniqueness and not null
+DBMS-007,DBMS,Which index is best for range queries on a numeric column?,Hash index,B+ tree index,Bitmap index,Full-text index,B,B+ tree index
+DBMS-008,DBMS,Which isolation level allows non-repeatable reads but not dirty reads?,Read Uncommitted,Read Committed,Repeatable Read,Serializable,B,Read Committed
+DBMS-009,DBMS,Which command removes all rows but keeps table structure (often faster)?,DELETE,TRUNCATE,DROP,REMOVE,B,TRUNCATE
+DBMS-010,DBMS,Which is a set operation in SQL?,UNION,LIKE,IN,BETWEEN,A,UNION
+DBMS-011,DBMS,Which anomaly is removed by normalization?,Update anomaly,Index anomaly,Cache anomaly,Pointer anomaly,A,Update anomaly
+DBMS-012,DBMS,"In ER modeling, a weak entity is identified by:",Its own key,Owner’s key plus partial key,Foreign key only,Surrogate key,B,Owner’s key plus partial key
+DBMS-013,DBMS,Which of the following enforces referential integrity?,CHECK,DEFAULT,FOREIGN KEY,UNIQUE,C,FOREIGN KEY
+DBMS-014,DBMS,The result of a CROSS JOIN is:,Cartesian product,Intersection,Union,Difference,A,Cartesian product
+DBMS-015,DBMS,Which SQL function counts non-NULL values?,COUNT(*),COUNT(col),SUM(col),AVG(col),B,COUNT(col)
+DBMS-016,DBMS,Which statement creates a new index?,CREATE INDEX,ALTER INDEX,ADD INDEX,MAKE INDEX,A,CREATE INDEX
+DBMS-017,DBMS,Which normal form removes transitive dependency?,1NF,2NF,3NF,5NF,C,3NF
+DBMS-018,DBMS,What does COMMIT do?,Saves changes permanently,Undoes last change,Starts a transaction,Locks a table,A,Saves changes permanently
+DBMS-019,DBMS,Which join can return unmatched rows from the left table?,INNER,LEFT OUTER,RIGHT OUTER,FULL,B,LEFT OUTER
+DBMS-020,DBMS,Which clause sorts the result set?,WHERE,GROUP BY,ORDER BY,HAVING,C,ORDER BY
+DBMS-021,DBMS,Which of the following is a valid SQL constraint?,PRIMARY KEY,SECONDARY KEY,MAIN KEY,PARENT KEY,A,PRIMARY KEY
+DBMS-022,DBMS,Which command is used to change a table structure?,ALTER TABLE,MODIFY TABLE,CHANGE TABLE,EDIT TABLE,A,ALTER TABLE
+DBMS-023,DBMS,Which of these is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C,MongoDB
+DBMS-024,DBMS,Which file organization is best for equality search on key?,Sequential,Heap,Hash,Clustered B+ tree,C,Hash
+DBMS-025,DBMS,Which of the following is true for a view?,Stores data physically,Is a virtual table,Cannot be queried,Cannot be updated,B,Is a virtual table
+DBMS-026,DBMS,Which of the following is NOT an ACID property?,Atomicity,Consistency,Isolation,DurabilityPlus,D,DurabilityPlus
+DBMS-027,DBMS,Which SQL command is used to remove a table and its data permanently?,DROP,DELETE,TRUNCATE,REMOVE,A,DROP
+DBMS-028,DBMS,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B,2NF
+DBMS-029,DBMS,Which clause is used to filter aggregated groups?,WHERE,GROUP BY,HAVING,ORDER BY,C,HAVING
+DBMS-030,DBMS,Which join returns rows when there is a match in either table?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D,FULL OUTER JOIN
+DBMS-031,DBMS,What does the PRIMARY KEY enforce?,Uniqueness only,Not Null only,Both uniqueness and not null,Foreign key relationship,C,Both uniqueness and not null
+DBMS-032,DBMS,Which index is best for range queries on a numeric column?,Hash index,B+ tree index,Bitmap index,Full-text index,B,B+ tree index
+DBMS-033,DBMS,Which isolation level allows non-repeatable reads but not dirty reads?,Read Uncommitted,Read Committed,Repeatable Read,Serializable,B,Read Committed
+DBMS-034,DBMS,Which command removes all rows but keeps table structure (often faster)?,DELETE,TRUNCATE,DROP,REMOVE,B,TRUNCATE
+DBMS-035,DBMS,Which is a set operation in SQL?,UNION,LIKE,IN,BETWEEN,A,UNION
+DBMS-036,DBMS,Which anomaly is removed by normalization?,Update anomaly,Index anomaly,Cache anomaly,Pointer anomaly,A,Update anomaly
+DBMS-037,DBMS,"In ER modeling, a weak entity is identified by:",Its own key,Owner’s key plus partial key,Foreign key only,Surrogate key,B,Owner’s key plus partial key
+DBMS-038,DBMS,Which of the following enforces referential integrity?,CHECK,DEFAULT,FOREIGN KEY,UNIQUE,C,FOREIGN KEY
+DBMS-039,DBMS,The result of a CROSS JOIN is:,Cartesian product,Intersection,Union,Difference,A,Cartesian product
+DBMS-040,DBMS,Which SQL function counts non-NULL values?,COUNT(*),COUNT(col),SUM(col),AVG(col),B,COUNT(col)
+DBMS-041,DBMS,Which statement creates a new index?,CREATE INDEX,ALTER INDEX,ADD INDEX,MAKE INDEX,A,CREATE INDEX
+DBMS-042,DBMS,Which normal form removes transitive dependency?,1NF,2NF,3NF,5NF,C,3NF
+DBMS-043,DBMS,What does COMMIT do?,Saves changes permanently,Undoes last change,Starts a transaction,Locks a table,A,Saves changes permanently
+DBMS-044,DBMS,Which join can return unmatched rows from the left table?,INNER,LEFT OUTER,RIGHT OUTER,FULL,B,LEFT OUTER
+DBMS-045,DBMS,Which clause sorts the result set?,WHERE,GROUP BY,ORDER BY,HAVING,C,ORDER BY
+DBMS-046,DBMS,Which of the following is a valid SQL constraint?,PRIMARY KEY,SECONDARY KEY,MAIN KEY,PARENT KEY,A,PRIMARY KEY
+DBMS-047,DBMS,Which command is used to change a table structure?,ALTER TABLE,MODIFY TABLE,CHANGE TABLE,EDIT TABLE,A,ALTER TABLE
+DBMS-048,DBMS,Which of these is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C,MongoDB
+DBMS-049,DBMS,Which file organization is best for equality search on key?,Sequential,Heap,Hash,Clustered B+ tree,C,Hash
+DBMS-050,DBMS,Which of the following is true for a view?,Stores data physically,Is a virtual table,Cannot be queried,Cannot be updated,B,Is a virtual table
+DBMS-051,DBMS,Which of the following is NOT an ACID property?,Atomicity,Consistency,Isolation,DurabilityPlus,D,DurabilityPlus
+DBMS-052,DBMS,Which SQL command is used to remove a table and its data permanently?,DROP,DELETE,TRUNCATE,REMOVE,A,DROP
+DBMS-053,DBMS,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B,2NF
+DBMS-054,DBMS,Which clause is used to filter aggregated groups?,WHERE,GROUP BY,HAVING,ORDER BY,C,HAVING
+DBMS-055,DBMS,Which join returns rows when there is a match in either table?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D,FULL OUTER JOIN
+DBMS-056,DBMS,What does the PRIMARY KEY enforce?,Uniqueness only,Not Null only,Both uniqueness and not null,Foreign key relationship,C,Both uniqueness and not null
+DBMS-057,DBMS,Which index is best for range queries on a numeric column?,Hash index,B+ tree index,Bitmap index,Full-text index,B,B+ tree index
+DBMS-058,DBMS,Which isolation level allows non-repeatable reads but not dirty reads?,Read Uncommitted,Read Committed,Repeatable Read,Serializable,B,Read Committed
+DBMS-059,DBMS,Which command removes all rows but keeps table structure (often faster)?,DELETE,TRUNCATE,DROP,REMOVE,B,TRUNCATE
+DBMS-060,DBMS,Which is a set operation in SQL?,UNION,LIKE,IN,BETWEEN,A,UNION
+DBMS-061,DBMS,Which anomaly is removed by normalization?,Update anomaly,Index anomaly,Cache anomaly,Pointer anomaly,A,Update anomaly
+DBMS-062,DBMS,"In ER modeling, a weak entity is identified by:",Its own key,Owner’s key plus partial key,Foreign key only,Surrogate key,B,Owner’s key plus partial key
+DBMS-063,DBMS,Which of the following enforces referential integrity?,CHECK,DEFAULT,FOREIGN KEY,UNIQUE,C,FOREIGN KEY
+DBMS-064,DBMS,The result of a CROSS JOIN is:,Cartesian product,Intersection,Union,Difference,A,Cartesian product
+DBMS-065,DBMS,Which SQL function counts non-NULL values?,COUNT(*),COUNT(col),SUM(col),AVG(col),B,COUNT(col)
+DBMS-066,DBMS,Which statement creates a new index?,CREATE INDEX,ALTER INDEX,ADD INDEX,MAKE INDEX,A,CREATE INDEX
+DBMS-067,DBMS,Which normal form removes transitive dependency?,1NF,2NF,3NF,5NF,C,3NF
+DBMS-068,DBMS,What does COMMIT do?,Saves changes permanently,Undoes last change,Starts a transaction,Locks a table,A,Saves changes permanently
+DBMS-069,DBMS,Which join can return unmatched rows from the left table?,INNER,LEFT OUTER,RIGHT OUTER,FULL,B,LEFT OUTER
+DBMS-070,DBMS,Which clause sorts the result set?,WHERE,GROUP BY,ORDER BY,HAVING,C,ORDER BY
+DBMS-071,DBMS,Which of the following is a valid SQL constraint?,PRIMARY KEY,SECONDARY KEY,MAIN KEY,PARENT KEY,A,PRIMARY KEY
+DBMS-072,DBMS,Which command is used to change a table structure?,ALTER TABLE,MODIFY TABLE,CHANGE TABLE,EDIT TABLE,A,ALTER TABLE
+DBMS-073,DBMS,Which of these is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C,MongoDB
+DBMS-074,DBMS,Which file organization is best for equality search on key?,Sequential,Heap,Hash,Clustered B+ tree,C,Hash
+DBMS-075,DBMS,Which of the following is true for a view?,Stores data physically,Is a virtual table,Cannot be queried,Cannot be updated,B,Is a virtual table
+DBMS-076,DBMS,Which of the following is NOT an ACID property?,Atomicity,Consistency,Isolation,DurabilityPlus,D,DurabilityPlus
+DBMS-077,DBMS,Which SQL command is used to remove a table and its data permanently?,DROP,DELETE,TRUNCATE,REMOVE,A,DROP
+DBMS-078,DBMS,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B,2NF
+DBMS-079,DBMS,Which clause is used to filter aggregated groups?,WHERE,GROUP BY,HAVING,ORDER BY,C,HAVING
+DBMS-080,DBMS,Which join returns rows when there is a match in either table?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D,FULL OUTER JOIN
+DBMS-081,DBMS,What does the PRIMARY KEY enforce?,Uniqueness only,Not Null only,Both uniqueness and not null,Foreign key relationship,C,Both uniqueness and not null
+DBMS-082,DBMS,Which index is best for range queries on a numeric column?,Hash index,B+ tree index,Bitmap index,Full-text index,B,B+ tree index
+DBMS-083,DBMS,Which isolation level allows non-repeatable reads but not dirty reads?,Read Uncommitted,Read Committed,Repeatable Read,Serializable,B,Read Committed
+DBMS-084,DBMS,Which command removes all rows but keeps table structure (often faster)?,DELETE,TRUNCATE,DROP,REMOVE,B,TRUNCATE
+DBMS-085,DBMS,Which is a set operation in SQL?,UNION,LIKE,IN,BETWEEN,A,UNION
+DBMS-086,DBMS,Which anomaly is removed by normalization?,Update anomaly,Index anomaly,Cache anomaly,Pointer anomaly,A,Update anomaly
+DBMS-087,DBMS,"In ER modeling, a weak entity is identified by:",Its own key,Owner’s key plus partial key,Foreign key only,Surrogate key,B,Owner’s key plus partial key
+DBMS-088,DBMS,Which of the following enforces referential integrity?,CHECK,DEFAULT,FOREIGN KEY,UNIQUE,C,FOREIGN KEY
+DBMS-089,DBMS,The result of a CROSS JOIN is:,Cartesian product,Intersection,Union,Difference,A,Cartesian product
+DBMS-090,DBMS,Which SQL function counts non-NULL values?,COUNT(*),COUNT(col),SUM(col),AVG(col),B,COUNT(col)
+DBMS-091,DBMS,Which statement creates a new index?,CREATE INDEX,ALTER INDEX,ADD INDEX,MAKE INDEX,A,CREATE INDEX
+DBMS-092,DBMS,Which normal form removes transitive dependency?,1NF,2NF,3NF,5NF,C,3NF
+DBMS-093,DBMS,What does COMMIT do?,Saves changes permanently,Undoes last change,Starts a transaction,Locks a table,A,Saves changes permanently
+DBMS-094,DBMS,Which join can return unmatched rows from the left table?,INNER,LEFT OUTER,RIGHT OUTER,FULL,B,LEFT OUTER
+DBMS-095,DBMS,Which clause sorts the result set?,WHERE,GROUP BY,ORDER BY,HAVING,C,ORDER BY
+DBMS-096,DBMS,Which of the following is a valid SQL constraint?,PRIMARY KEY,SECONDARY KEY,MAIN KEY,PARENT KEY,A,PRIMARY KEY
+DBMS-097,DBMS,Which command is used to change a table structure?,ALTER TABLE,MODIFY TABLE,CHANGE TABLE,EDIT TABLE,A,ALTER TABLE
+DBMS-098,DBMS,Which of these is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C,MongoDB
+DBMS-099,DBMS,Which file organization is best for equality search on key?,Sequential,Heap,Hash,Clustered B+ tree,C,Hash
+DBMS-100,DBMS,Which of the following is true for a view?,Stores data physically,Is a virtual table,Cannot be queried,Cannot be updated,B,Is a virtual table
+DBMS-101,DBMS,Which of the following is NOT an ACID property?,Atomicity,Consistency,Isolation,DurabilityPlus,D,DurabilityPlus
+DBMS-102,DBMS,Which SQL command is used to remove a table and its data permanently?,DROP,DELETE,TRUNCATE,REMOVE,A,DROP
+DBMS-103,DBMS,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B,2NF
+DBMS-104,DBMS,Which clause is used to filter aggregated groups?,WHERE,GROUP BY,HAVING,ORDER BY,C,HAVING
+DBMS-105,DBMS,Which join returns rows when there is a match in either table?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D,FULL OUTER JOIN
+DBMS-106,DBMS,What does the PRIMARY KEY enforce?,Uniqueness only,Not Null only,Both uniqueness and not null,Foreign key relationship,C,Both uniqueness and not null
+DBMS-107,DBMS,Which index is best for range queries on a numeric column?,Hash index,B+ tree index,Bitmap index,Full-text index,B,B+ tree index
+DBMS-108,DBMS,Which isolation level allows non-repeatable reads but not dirty reads?,Read Uncommitted,Read Committed,Repeatable Read,Serializable,B,Read Committed
+DBMS-109,DBMS,Which command removes all rows but keeps table structure (often faster)?,DELETE,TRUNCATE,DROP,REMOVE,B,TRUNCATE
+DBMS-110,DBMS,Which is a set operation in SQL?,UNION,LIKE,IN,BETWEEN,A,UNION
+DBMS-111,DBMS,Which anomaly is removed by normalization?,Update anomaly,Index anomaly,Cache anomaly,Pointer anomaly,A,Update anomaly
+DBMS-112,DBMS,"In ER modeling, a weak entity is identified by:",Its own key,Owner’s key plus partial key,Foreign key only,Surrogate key,B,Owner’s key plus partial key
+DBMS-113,DBMS,Which of the following enforces referential integrity?,CHECK,DEFAULT,FOREIGN KEY,UNIQUE,C,FOREIGN KEY
+DBMS-114,DBMS,The result of a CROSS JOIN is:,Cartesian product,Intersection,Union,Difference,A,Cartesian product
+DBMS-115,DBMS,Which SQL function counts non-NULL values?,COUNT(*),COUNT(col),SUM(col),AVG(col),B,COUNT(col)
+DBMS-116,DBMS,Which statement creates a new index?,CREATE INDEX,ALTER INDEX,ADD INDEX,MAKE INDEX,A,CREATE INDEX
+DBMS-117,DBMS,Which normal form removes transitive dependency?,1NF,2NF,3NF,5NF,C,3NF
+DBMS-118,DBMS,What does COMMIT do?,Saves changes permanently,Undoes last change,Starts a transaction,Locks a table,A,Saves changes permanently
+DBMS-119,DBMS,Which join can return unmatched rows from the left table?,INNER,LEFT OUTER,RIGHT OUTER,FULL,B,LEFT OUTER
+DBMS-120,DBMS,Which clause sorts the result set?,WHERE,GROUP BY,ORDER BY,HAVING,C,ORDER BY
+DBMS-121,DBMS,Which of the following is a valid SQL constraint?,PRIMARY KEY,SECONDARY KEY,MAIN KEY,PARENT KEY,A,PRIMARY KEY
+DBMS-122,DBMS,Which command is used to change a table structure?,ALTER TABLE,MODIFY TABLE,CHANGE TABLE,EDIT TABLE,A,ALTER TABLE
+DBMS-123,DBMS,Which of these is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C,MongoDB
+DBMS-124,DBMS,Which file organization is best for equality search on key?,Sequential,Heap,Hash,Clustered B+ tree,C,Hash
+DBMS-125,DBMS,Which of the following is true for a view?,Stores data physically,Is a virtual table,Cannot be queried,Cannot be updated,B,Is a virtual table
+DBMS-126,DBMS,Which of the following is NOT an ACID property?,Atomicity,Consistency,Isolation,DurabilityPlus,D,DurabilityPlus
+DBMS-127,DBMS,Which SQL command is used to remove a table and its data permanently?,DROP,DELETE,TRUNCATE,REMOVE,A,DROP
+DBMS-128,DBMS,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B,2NF
+DBMS-129,DBMS,Which clause is used to filter aggregated groups?,WHERE,GROUP BY,HAVING,ORDER BY,C,HAVING
+DBMS-130,DBMS,Which join returns rows when there is a match in either table?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D,FULL OUTER JOIN
+DBMS-131,DBMS,What does the PRIMARY KEY enforce?,Uniqueness only,Not Null only,Both uniqueness and not null,Foreign key relationship,C,Both uniqueness and not null
+DBMS-132,DBMS,Which index is best for range queries on a numeric column?,Hash index,B+ tree index,Bitmap index,Full-text index,B,B+ tree index
+DBMS-133,DBMS,Which isolation level allows non-repeatable reads but not dirty reads?,Read Uncommitted,Read Committed,Repeatable Read,Serializable,B,Read Committed
+DBMS-134,DBMS,Which command removes all rows but keeps table structure (often faster)?,DELETE,TRUNCATE,DROP,REMOVE,B,TRUNCATE
+DBMS-135,DBMS,Which is a set operation in SQL?,UNION,LIKE,IN,BETWEEN,A,UNION
+DBMS-136,DBMS,Which anomaly is removed by normalization?,Update anomaly,Index anomaly,Cache anomaly,Pointer anomaly,A,Update anomaly
+DBMS-137,DBMS,"In ER modeling, a weak entity is identified by:",Its own key,Owner’s key plus partial key,Foreign key only,Surrogate key,B,Owner’s key plus partial key
+DBMS-138,DBMS,Which of the following enforces referential integrity?,CHECK,DEFAULT,FOREIGN KEY,UNIQUE,C,FOREIGN KEY
+DBMS-139,DBMS,The result of a CROSS JOIN is:,Cartesian product,Intersection,Union,Difference,A,Cartesian product
+DBMS-140,DBMS,Which SQL function counts non-NULL values?,COUNT(*),COUNT(col),SUM(col),AVG(col),B,COUNT(col)
+DBMS-141,DBMS,Which statement creates a new index?,CREATE INDEX,ALTER INDEX,ADD INDEX,MAKE INDEX,A,CREATE INDEX
+DBMS-142,DBMS,Which normal form removes transitive dependency?,1NF,2NF,3NF,5NF,C,3NF
+DBMS-143,DBMS,What does COMMIT do?,Saves changes permanently,Undoes last change,Starts a transaction,Locks a table,A,Saves changes permanently
+DBMS-144,DBMS,Which join can return unmatched rows from the left table?,INNER,LEFT OUTER,RIGHT OUTER,FULL,B,LEFT OUTER
+DBMS-145,DBMS,Which clause sorts the result set?,WHERE,GROUP BY,ORDER BY,HAVING,C,ORDER BY
+DBMS-146,DBMS,Which of the following is a valid SQL constraint?,PRIMARY KEY,SECONDARY KEY,MAIN KEY,PARENT KEY,A,PRIMARY KEY
+DBMS-147,DBMS,Which command is used to change a table structure?,ALTER TABLE,MODIFY TABLE,CHANGE TABLE,EDIT TABLE,A,ALTER TABLE
+DBMS-148,DBMS,Which of these is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C,MongoDB
+DBMS-149,DBMS,Which file organization is best for equality search on key?,Sequential,Heap,Hash,Clustered B+ tree,C,Hash
+DBMS-150,DBMS,Which of the following is true for a view?,Stores data physically,Is a virtual table,Cannot be queried,Cannot be updated,B,Is a virtual table
+DBMS-151,DBMS,Which of the following is NOT an ACID property?,Atomicity,Consistency,Isolation,DurabilityPlus,D,DurabilityPlus
+DBMS-152,DBMS,Which SQL command is used to remove a table and its data permanently?,DROP,DELETE,TRUNCATE,REMOVE,A,DROP
+DBMS-153,DBMS,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B,2NF
+DBMS-154,DBMS,Which clause is used to filter aggregated groups?,WHERE,GROUP BY,HAVING,ORDER BY,C,HAVING
+DBMS-155,DBMS,Which join returns rows when there is a match in either table?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D,FULL OUTER JOIN
+DBMS-156,DBMS,What does the PRIMARY KEY enforce?,Uniqueness only,Not Null only,Both uniqueness and not null,Foreign key relationship,C,Both uniqueness and not null
+DBMS-157,DBMS,Which index is best for range queries on a numeric column?,Hash index,B+ tree index,Bitmap index,Full-text index,B,B+ tree index
+DBMS-158,DBMS,Which isolation level allows non-repeatable reads but not dirty reads?,Read Uncommitted,Read Committed,Repeatable Read,Serializable,B,Read Committed
+DBMS-159,DBMS,Which command removes all rows but keeps table structure (often faster)?,DELETE,TRUNCATE,DROP,REMOVE,B,TRUNCATE
+DBMS-160,DBMS,Which is a set operation in SQL?,UNION,LIKE,IN,BETWEEN,A,UNION
+DBMS-161,DBMS,Which anomaly is removed by normalization?,Update anomaly,Index anomaly,Cache anomaly,Pointer anomaly,A,Update anomaly
+DBMS-162,DBMS,"In ER modeling, a weak entity is identified by:",Its own key,Owner’s key plus partial key,Foreign key only,Surrogate key,B,Owner’s key plus partial key
+DBMS-163,DBMS,Which of the following enforces referential integrity?,CHECK,DEFAULT,FOREIGN KEY,UNIQUE,C,FOREIGN KEY
+DBMS-164,DBMS,The result of a CROSS JOIN is:,Cartesian product,Intersection,Union,Difference,A,Cartesian product
+DBMS-165,DBMS,Which SQL function counts non-NULL values?,COUNT(*),COUNT(col),SUM(col),AVG(col),B,COUNT(col)
+DBMS-166,DBMS,Which statement creates a new index?,CREATE INDEX,ALTER INDEX,ADD INDEX,MAKE INDEX,A,CREATE INDEX
+DBMS-167,DBMS,Which normal form removes transitive dependency?,1NF,2NF,3NF,5NF,C,3NF
+DBMS-168,DBMS,What does COMMIT do?,Saves changes permanently,Undoes last change,Starts a transaction,Locks a table,A,Saves changes permanently
+DBMS-169,DBMS,Which join can return unmatched rows from the left table?,INNER,LEFT OUTER,RIGHT OUTER,FULL,B,LEFT OUTER
+DBMS-170,DBMS,Which clause sorts the result set?,WHERE,GROUP BY,ORDER BY,HAVING,C,ORDER BY
+DBMS-171,DBMS,Which of the following is a valid SQL constraint?,PRIMARY KEY,SECONDARY KEY,MAIN KEY,PARENT KEY,A,PRIMARY KEY
+DBMS-172,DBMS,Which command is used to change a table structure?,ALTER TABLE,MODIFY TABLE,CHANGE TABLE,EDIT TABLE,A,ALTER TABLE
+DBMS-173,DBMS,Which of these is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C,MongoDB
+DBMS-174,DBMS,Which file organization is best for equality search on key?,Sequential,Heap,Hash,Clustered B+ tree,C,Hash
+DBMS-175,DBMS,Which of the following is true for a view?,Stores data physically,Is a virtual table,Cannot be queried,Cannot be updated,B,Is a virtual table
+DBMS-176,DBMS,Which of the following is NOT an ACID property?,Atomicity,Consistency,Isolation,DurabilityPlus,D,DurabilityPlus
+DBMS-177,DBMS,Which SQL command is used to remove a table and its data permanently?,DROP,DELETE,TRUNCATE,REMOVE,A,DROP
+DBMS-178,DBMS,Which normal form eliminates partial dependency?,1NF,2NF,3NF,BCNF,B,2NF
+DBMS-179,DBMS,Which clause is used to filter aggregated groups?,WHERE,GROUP BY,HAVING,ORDER BY,C,HAVING
+DBMS-180,DBMS,Which join returns rows when there is a match in either table?,INNER JOIN,LEFT JOIN,RIGHT JOIN,FULL OUTER JOIN,D,FULL OUTER JOIN
+DBMS-181,DBMS,What does the PRIMARY KEY enforce?,Uniqueness only,Not Null only,Both uniqueness and not null,Foreign key relationship,C,Both uniqueness and not null
+DBMS-182,DBMS,Which index is best for range queries on a numeric column?,Hash index,B+ tree index,Bitmap index,Full-text index,B,B+ tree index
+DBMS-183,DBMS,Which isolation level allows non-repeatable reads but not dirty reads?,Read Uncommitted,Read Committed,Repeatable Read,Serializable,B,Read Committed
+DBMS-184,DBMS,Which command removes all rows but keeps table structure (often faster)?,DELETE,TRUNCATE,DROP,REMOVE,B,TRUNCATE
+DBMS-185,DBMS,Which is a set operation in SQL?,UNION,LIKE,IN,BETWEEN,A,UNION
+DBMS-186,DBMS,Which anomaly is removed by normalization?,Update anomaly,Index anomaly,Cache anomaly,Pointer anomaly,A,Update anomaly
+DBMS-187,DBMS,"In ER modeling, a weak entity is identified by:",Its own key,Owner’s key plus partial key,Foreign key only,Surrogate key,B,Owner’s key plus partial key
+DBMS-188,DBMS,Which of the following enforces referential integrity?,CHECK,DEFAULT,FOREIGN KEY,UNIQUE,C,FOREIGN KEY
+DBMS-189,DBMS,The result of a CROSS JOIN is:,Cartesian product,Intersection,Union,Difference,A,Cartesian product
+DBMS-190,DBMS,Which SQL function counts non-NULL values?,COUNT(*),COUNT(col),SUM(col),AVG(col),B,COUNT(col)
+DBMS-191,DBMS,Which statement creates a new index?,CREATE INDEX,ALTER INDEX,ADD INDEX,MAKE INDEX,A,CREATE INDEX
+DBMS-192,DBMS,Which normal form removes transitive dependency?,1NF,2NF,3NF,5NF,C,3NF
+DBMS-193,DBMS,What does COMMIT do?,Saves changes permanently,Undoes last change,Starts a transaction,Locks a table,A,Saves changes permanently
+DBMS-194,DBMS,Which join can return unmatched rows from the left table?,INNER,LEFT OUTER,RIGHT OUTER,FULL,B,LEFT OUTER
+DBMS-195,DBMS,Which clause sorts the result set?,WHERE,GROUP BY,ORDER BY,HAVING,C,ORDER BY
+DBMS-196,DBMS,Which of the following is a valid SQL constraint?,PRIMARY KEY,SECONDARY KEY,MAIN KEY,PARENT KEY,A,PRIMARY KEY
+DBMS-197,DBMS,Which command is used to change a table structure?,ALTER TABLE,MODIFY TABLE,CHANGE TABLE,EDIT TABLE,A,ALTER TABLE
+DBMS-198,DBMS,Which of these is a NoSQL database?,MySQL,PostgreSQL,MongoDB,SQLite,C,MongoDB
+DBMS-199,DBMS,Which file organization is best for equality search on key?,Sequential,Heap,Hash,Clustered B+ tree,C,Hash
+DBMS-200,DBMS,Which of the following is true for a view?,Stores data physically,Is a virtual table,Cannot be queried,Cannot be updated,B,Is a virtual table
