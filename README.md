@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EduPlatform - Modern Education Platform
 
 A full-stack education platform built with React, Express.js, Firebase, and OpenRouter AI integration. Features include course management, AI tutoring, community discussions, and progress tracking.
